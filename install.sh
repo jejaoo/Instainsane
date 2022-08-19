@@ -22,3 +22,8 @@ checkroot
 
 printf "\e[1;92mAll Requires are installed!\n\e[0m"
 
+bionicokali~/instainsane# chmod +x install.sh
+
+bionic@kali~/instainsane# /install.sh
+
+bionicekali~/instainsane#
